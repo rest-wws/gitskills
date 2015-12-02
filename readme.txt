@@ -1,3 +1,8 @@
 creating a new branch is quick.
 changes dev.
-a b.
+<<<<<<< HEAD
+a and b.
+master.
+=======
+a and b.
+>>>>>>> dev
